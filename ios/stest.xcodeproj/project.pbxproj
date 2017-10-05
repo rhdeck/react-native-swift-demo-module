@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		71BE02211F818708000D5D13 /* stest.m in Sources */ = {isa = PBXBuildFile; fileRef = 71BE02201F818708000D5D13 /* stest.m */; };
-		71BE02221F818708000D5D13 /* stest.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 71BE021F1F818708000D5D13 /* stest.h */; };
 		71BE022A1F818783000D5D13 /* stest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71BE02291F818783000D5D13 /* stest.swift */; };
 /* End PBXBuildFile section */
 
@@ -19,7 +18,6 @@
 			dstPath = "include/$(PRODUCT_NAME)";
 			dstSubfolderSpec = 16;
 			files = (
-				71BE02221F818708000D5D13 /* stest.h in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -27,7 +25,6 @@
 
 /* Begin PBXFileReference section */
 		71BE021C1F818708000D5D13 /* libstest.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libstest.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		71BE021F1F818708000D5D13 /* stest.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = stest.h; sourceTree = "<group>"; };
 		71BE02201F818708000D5D13 /* stest.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = stest.m; sourceTree = "<group>"; };
 		71BE02281F818783000D5D13 /* stest-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "stest-Bridging-Header.h"; sourceTree = "<group>"; };
 		71BE02291F818783000D5D13 /* stest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = stest.swift; sourceTree = "<group>"; };
@@ -63,7 +60,6 @@
 		71BE021E1F818708000D5D13 /* stest */ = {
 			isa = PBXGroup;
 			children = (
-				71BE021F1F818708000D5D13 /* stest.h */,
 				71BE02201F818708000D5D13 /* stest.m */,
 				71BE02291F818783000D5D13 /* stest.swift */,
 				71BE02281F818783000D5D13 /* stest-Bridging-Header.h */,
