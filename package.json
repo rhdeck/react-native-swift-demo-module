@@ -1,0 +1,19 @@
+{
+    "name": "react-native-swift-demo-module",
+    "version": "0.0.1",
+    "peerDependencies": {
+      "react-native-swift":"^0.3.0"
+    },
+    "repository": {
+      "type":"git",
+      "url":"https://github.com/rhdeck/react-native-swift-demo-module.git"
+
+    },
+    "author": {
+      "name": "Ray Deck",
+      "email": "ray@raydeck.com",
+      "url":"https://github.com/rhdeck"
+    },
+    "main": "index.js",
+    "license":"MIT"
+}
