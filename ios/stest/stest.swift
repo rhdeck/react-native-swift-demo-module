@@ -16,10 +16,5 @@ class stest: RCTEventEmitter {
             "a": "A",
             "b": "B"
         ];
-        
     }
-    
-    
-    
 }
-
