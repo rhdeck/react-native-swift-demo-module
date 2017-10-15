@@ -12,4 +12,6 @@ So this shows in very few lines how to make a React Native project with Swift no
 * The presence of the react-native-swift peer dependency in package.json. Peer matters: this is an extension for "react-native link", and the latter only walks the first directory for plugins/commands.
 
 Note that this is *not* on NPM - to use it as a dependency, do:
-* npm install --save https://github.com/rhdeck/react-native-swift-demo-module
+* npm install --save rhdeck/react-native-swift-demo-module
+
+This module is used in the [react-native-swift-demo-app](https://github.com/rhdeck/react-native-swift-demo-app/) repository
